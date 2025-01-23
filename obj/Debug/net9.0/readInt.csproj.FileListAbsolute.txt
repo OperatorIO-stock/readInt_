@@ -1,0 +1,15 @@
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/bin/Debug/net9.0/readInt
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/bin/Debug/net9.0/readInt.deps.json
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/bin/Debug/net9.0/readInt.runtimeconfig.json
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/bin/Debug/net9.0/readInt.dll
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/bin/Debug/net9.0/readInt.pdb
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.AssemblyInfoInputs.cache
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.AssemblyInfo.cs
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.sourcelink.json
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.dll
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/refint/readInt.dll
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.pdb
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/readInt.genruntimeconfig.cache
+/home/operatorio/Документы/meCodes/lesson_projects/readInt/obj/Debug/net9.0/ref/readInt.dll
