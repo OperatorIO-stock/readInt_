@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("readInt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e0e080c7a6e99b5c02c86c78610daa0db2e033")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+598e3a664edcdf8ec8e97c68bf1ab2c81cc8e155")]
 [assembly: System.Reflection.AssemblyProductAttribute("readInt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("readInt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

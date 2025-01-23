@@ -4,30 +4,23 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(RequestNumber());
+        int number = RequestNumber();
+        Console.WriteLine(number);
     }
 
     static int RequestNumber()
     {
-        bool isWorkingProgram = true;
+        int number;
+        
+        Console.Write("Введите число: ");
 
-        while (isWorkingProgram)
+        string numberUser = Console.ReadLine();
+
+        while (int.TryParse(numberUser, out number) == false)
         {
-            Console.Write("Введите число: ");
-
-            string numberUser = Console.ReadLine();
-
-            if (int.TryParse(numberUser, out int number))
-            {
-                return number;
-            }
-            else
-            {
-                Console.WriteLine("Ошибка: Вы ввели некорректное число. Пожалуйста, попробуйте снова.");
-                isWorkingProgram = false;
-            }
+            Console.WriteLine("Ошибка: Введите корректные данные.");
         }
 
-        return 0;
+        return number;
     }
 }
