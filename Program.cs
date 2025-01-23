@@ -15,17 +15,19 @@ class Program
         {
             Console.Write("Введите число: ");
 
-            try
+            string numberUser = Console.ReadLine();
+
+            if (int.TryParse(numberUser, out int number))
             {
-                int numberUser = int.Parse(Console.ReadLine());
-                return numberUser;
+                return number;
             }
-            catch (FormatException)
+            else
             {
                 Console.WriteLine("Ошибка: Вы ввели некорректное число. Пожалуйста, попробуйте снова.");
+                isWorkingProgram = false;
             }
         }
-        
+
         return 0;
     }
 }
