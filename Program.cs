@@ -19,6 +19,7 @@ class Program
         while (int.TryParse(numberUser, out number) == false)
         {
             Console.WriteLine("Ошибка: Введите корректные данные.");
+            break;
         }
 
         return number;
